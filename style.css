@@ -169,6 +169,7 @@ span{
 
 .box-projetos img{
     width: 400px;
+    border-radius: 30px;
 }
 .caixa-proj{
     /* border: 1px solid yellow; */
